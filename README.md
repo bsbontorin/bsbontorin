@@ -6,26 +6,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
- <div style="display: flex; flex-direction: row"><br>
-  <div>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Bruno-HTML">
-  </div>
-  <div>
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Bruno-JAVA">
-  </div>
-  <div>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Bruno-TS">
-  </div>
-  <div>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Bruno-JS">
-  </div>
-  <div>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Bruno-CSS">
-  </div>
-  <div>
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Bruno-SASS">
-  </div>
+ <div style="display: inline-block;"><br>
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Bruno-HTML">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Bruno-JAVA">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Bruno-TS">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Bruno-JS">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Bruno-CSS">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Bruno-SASS">
 </div>
+
+
+
+
+
+
 
 
 
