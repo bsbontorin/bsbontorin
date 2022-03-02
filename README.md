@@ -1,4 +1,8 @@
-## Olá eu sou o Bruno Bontorin!
+### **Hi guys**
+
+I'm Bruno Bontorin.
+
+Have a very nice day.
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/Bruno-Bontorin">
@@ -15,22 +19,4 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Bruno-SASS">
   <img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" alt="Hello.gif">
 </div>
-
-<!-- https://www.youtube.com/watch?v=TsaLQAetPLU -->
-
-
-
-
-
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
