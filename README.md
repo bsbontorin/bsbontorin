@@ -17,5 +17,6 @@ Have a very nice day.
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Bruno-JS">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Bruno-CSS">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Bruno-SASS">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="Bruno-C">
   <img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" alt="Hello.gif">
 </div>
