@@ -6,8 +6,8 @@ Have a very nice day.
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/Bruno-Bontorin">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Bontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&exclude_repo=https://github.com/Bruno-Bontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Bontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&exclude_repo=https://github.com/Bruno-Bontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <div style="display: inline-block;"><br>
