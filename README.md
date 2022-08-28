@@ -7,7 +7,7 @@ Have a very nice day.
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/Bruno-Bontorin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Bontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&exclude_repo=https://github.com/Bruno-Bontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  <div style="display: inline-block;"><br>
@@ -19,4 +19,3 @@ Have a very nice day.
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Bruno-SASS">
   <img align="right" style="border-radius:50px;" height="150" src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" alt="Hello.gif">
 </div>
-  
