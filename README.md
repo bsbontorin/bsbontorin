@@ -5,13 +5,13 @@ I'm Bruno Bontorin.
 Have a very nice day.
 
 <div>
-  <a href="https://github.com/Bruno-Bontorin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-Bontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Bontorin&exclude_repo=https://github.com/Bruno-Bontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/bsbontorin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsbontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsbontorin&exclude_repo=https://github.com/bsbontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
   
-## <kbd><img height="25em" src="https://github.com/Bruno-Bontorin/Bruno-Bontorin/blob/main/core.webp"></kbd> Technologies
+## <kbd><img height="25em" src="https://github.com/bsbontorin/blob/main/core.webp"></kbd> Technologies
 <div>
   <img align="center" height="40em" width="40em" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="40em" width="40em" title="JAVA" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
