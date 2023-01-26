@@ -11,7 +11,7 @@ Have a very nice day.
   </a>
 </div>
   
-## <kbd><img height="25em" src="https://github.com/bsbontorin/blob/main/core.webp"></kbd> Technologies
+## <kbd><img height="25em" src="https://github.com/bsbontorin/bsbontorin/blob/main/core.webp"></kbd> Technologies
 <div>
   <img align="center" height="40em" width="40em" title="C" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" height="40em" width="40em" title="JAVA" alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
